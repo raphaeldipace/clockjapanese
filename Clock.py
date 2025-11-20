@@ -43,4 +43,6 @@ hour.pack(pady=2)
 get_data()
 get_hello()
 get_hour()
+
+# Run
 root.mainloop()
